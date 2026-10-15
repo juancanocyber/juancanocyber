@@ -1,6 +1,6 @@
  <div align="center">
 
-# Hi, I'm Learning Cybersecurity 🔐
+<h1 align="center">Hi 👋, I'm Juan Cano</h1>
 
 **Aspiring Cybersecurity Analyst | Exploring SOC & GRC**
 
@@ -59,3 +59,32 @@ I'll keep updating this profile with labs, notes, projects, and lessons learned 
 *Learning one skill and building one project at a time.*
 
 </div>
+
+
+- 🔭 I’m currently working on **Building my cybersecurity portfolio through hands-on labs and beginner projects.**
+
+- 🌱 I’m currently learning **Networking, IP addresses, ports, protocols, log analysis, and SIEM fundamentals through TryHackMe.**
+
+- 👯 I’m looking to collaborate on **Beginner-friendly cybersecurity projects, log analysis, and defensive security labs.**
+
+- 🤝 I’m looking for help with **Networking fundamentals, SIEM searches, log analysis, and breaking into cybersecurity.**
+
+- 👨‍💻 All of my projects are available at [github.com/juancanocyber](github.com/juancanocyber)
+
+- 💬 Ask me about **My cybersecurity learning journey, TryHackMe labs, and the projects I'm building.**
+
+- 📫 How to reach me **oppositive.prune@proton.me**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/juan-cano-cyber](https://www.linkedin.com/in/juan-cano-cyber)
+
+- ⚡ Fun fact **I stream video games in my free time.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-cano-cyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-cano-cyber" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juancanocyber&show_icons=true&locale=en" alt="juancanocyber" /></p>
